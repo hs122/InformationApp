@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322821614651",
+    "project_id": "datastored-b337c",
+    "storage_bucket": "datastored-b337c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322821614651:android:3ebc7784232e581478c01e",
+        "android_client_info": {
+          "package_name": "com.example.details"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322821614651-82n6r79srm1q0f20ua3tpsfd5apbns5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdUiAUhu4ENMw_oJx3wEZpmQbsoR90nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322821614651-82n6r79srm1q0f20ua3tpsfd5apbns5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
